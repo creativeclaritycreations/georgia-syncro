@@ -4,7 +4,7 @@ template: blocks
 blocks:
 - template: block__hero
   component: hero
-  background: primary
+  background: transparent
   title: Palermo's Peaches
   subtitle: Georgia's Synchronized Skating Team
 - template: block__feature
