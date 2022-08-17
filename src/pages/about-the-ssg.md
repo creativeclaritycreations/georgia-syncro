@@ -1,10 +1,12 @@
 ---
-title: About Gatsby
+title: About Syncro
 meta:
-  description: My description
+  description: About synchronized skating
   keywords: keyword, go, here
 
 ---
+Synchronized skating is a team event for figure skaters and is competed to the highest levels.
+
 Gatsby is a static site generator built on the React JavaScript framework. Gatsby's purpose is to build fast, highly-optimized static sites.
 
 One of Gatsby's biggest strengths is its ability to ingest data from multiple sources — files, databases, or APIs — and create pages from them during its build step.
